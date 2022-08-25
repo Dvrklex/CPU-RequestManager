@@ -28,4 +28,4 @@ Devuelve como salida una cola con el orden de las peticiones.
   
 
 ## Restricción:
-### **LA LISTA DE SECTORES DADA, NO DEBE SER ALTERADA EN NINGUN METODO**# CPU-RequestManager
+### **LA LISTA DE SECTORES DADA, NO DEBE SER ALTERADA EN NINGUN METODO**
